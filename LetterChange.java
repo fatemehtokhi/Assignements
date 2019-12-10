@@ -1,9 +1,9 @@
 import java.util.*; 
 import java.io.*;
 
-class Main {
+class LetterChange{
 
-  public static String LetterChanges(String str) {
+  public static String call(String str) {
     char[] alphabet = "abcdefghijklmnopqrstuvwxyz".toCharArray();
     String [] vowels = new String[]{"a", "e", "i","o","u"};
     List<String> list = Arrays.asList(vowels);
@@ -41,7 +41,7 @@ class Main {
     // keep this function call here  
     System.out.println("please input :");   
     Scanner s = new Scanner(System.in);
-    System.out.println(LetterChanges(s.nextLine())); 
+    System.out.println(call(s.nextLine())); 
   }
 
 }
