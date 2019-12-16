@@ -4,3 +4,4 @@
 - ReverseSentence: Reverse words with a specefic length.
 - SortString: Sorting words alphabeticaly.
 - VowelsCount: Counting vowels of words.
+- Isogram: checks if there is a redundant character in the string.
