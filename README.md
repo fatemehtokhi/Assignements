@@ -5,3 +5,4 @@
 - SortString: Sorting words alphabeticaly.
 - VowelsCount: Counting vowels of words.
 - Isogram: checks if there is a redundant character in the string.
+- LikesMassages: counting the number of likes and return a message accordingly.
