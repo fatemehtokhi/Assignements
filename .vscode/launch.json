@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SubString",
+            "request": "launch",
+            "mainClass": "SubString"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Isogram",
             "request": "launch",
             "mainClass": "Isogram"
