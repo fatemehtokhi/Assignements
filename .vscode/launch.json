@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CamelCase",
+            "request": "launch",
+            "mainClass": "CamelCase"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SubString",
             "request": "launch",
             "mainClass": "SubString"
