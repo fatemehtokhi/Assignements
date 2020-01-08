@@ -11,3 +11,4 @@
     characters duplicate.
 - CamelCase: Change string to camelcase and remove `-` and `_`.
 - TwoSum: Giving an array of integers, return indices of the         two numbers that they add up to a specific target.
+- OddEvenNumber: finding within a array Odd oder Even numbers.
