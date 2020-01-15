@@ -13,3 +13,4 @@
 - TwoSum: Giving an array of integers, return indices of the         two numbers that they add up to a specific target.
 - OddEvenNumber: finding within a array Odd oder Even numbers.
 - HumanReadableTime: Converting a number to hours,minuts and          seconds.
+- PrimeNumbers: finding prime numbers between a renge form  numbers. 
