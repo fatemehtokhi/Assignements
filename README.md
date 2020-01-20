@@ -14,3 +14,4 @@
 - OddEvenNumber: finding within a array Odd oder Even numbers.
 - HumanReadableTime: Converting a number to hours,minuts and          seconds.
 - PrimeNumbers: finding prime numbers between a renge form  numbers. 
+- Multiplies of 3 and 5:Summing multiplies of 3 and 5 of number.
