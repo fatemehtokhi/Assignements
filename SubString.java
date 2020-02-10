@@ -10,6 +10,7 @@ class SubString{
     }
     public static void main(final String[] args) {
         System.out.println("please enter a sentence :");
+        
         Scanner sent = new Scanner(System.in);
         System.out.println(toJadenCase(sent.nextLine()));
     }
