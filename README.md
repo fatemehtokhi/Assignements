@@ -17,3 +17,4 @@
 - Multiplies of 3 and 5:Summing multiplies of 3 and 5 of number.
 - Checking a number for PrimeNumber oder none-PrimeNumebr.
 - Fibonacci:How we can calculate numbers of Fibonacci.
+- Pzramid mit "*":How we print a pyramid mit "*".
