@@ -8,8 +8,11 @@ public class VowelsCount {
         String[] vowels = new String[]{"a", "e", "i","o","u"};
         List<String> vowelsList = Arrays.asList(vowels);
         for(int i = 0;i<=chars.length-1;i++){
+            System.out.println("originalchar :"+chars[i]);
             for(String s : vowelsList){
+                System.out.println("vowelchar :"+s);
                 if(s.contains(chars[i])) vowelsCount++;
+                System.out.println("vowelCount :"+vowelsCount);
             }
 
         }
