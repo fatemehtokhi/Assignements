@@ -21,3 +21,4 @@
 - Pyramid mit columns:How we print a pyramid mit columns.
 - Pyramid mit rows:How we print a pyramid mit rows.
 - Pyramid mit Alphabet:How we print a pyramid mit Alphabet.
+- Abbreviation:How we create abbriviation a word.
